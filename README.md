@@ -1,9 +1,8 @@
-# react / ts / vite
+# Редактор параметров 
 
-### [Selsup ТЗ](https://disk.yandex.ru/i/fq_sd-10mcGnKg)
+### [Selsup ТЗ](https://disk.yandex.ru/i/fq_sd-10mcGnKg) 
 
-## Структура 
-
+## Структура
 
  ```
   param-editor/
