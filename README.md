@@ -1,7 +1,5 @@
 # Редактор параметров 
 
-### [Selsup ТЗ](https://disk.yandex.ru/i/fq_sd-10mcGnKg) 
-
 ## Структура
 
  ```
