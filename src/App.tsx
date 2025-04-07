@@ -130,8 +130,9 @@ const App: React.FC = () => {
 
   const paramEditorRef = useRef<ParamEditorRef>(null)
 
+  // Вызов метода getModel и вывод модели в консоль
   const handleGetModel = () => {
-    const currentModel = paramEditorRef.current?.getModel()
+    const currentModel = paramEditorRef.current?.getModel() 
     console.log('Current model:', currentModel)
     alert(JSON.stringify(currentModel, null, 2))
   }
