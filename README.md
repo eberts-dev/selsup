@@ -14,4 +14,4 @@
 
  ```
  
-**Рабочий пример** - [редактор параметров](https://selsup-eta.vercel.app/)
+[Рабочий пример](https://selsup-eta.vercel.app/)
